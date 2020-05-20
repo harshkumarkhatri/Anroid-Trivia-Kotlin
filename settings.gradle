@@ -1,0 +1,2 @@
+rootProject.name='Androif Trivia'
+include ':app'
